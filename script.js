@@ -6,7 +6,7 @@ const boton=document.getElementById(
 "btnActualizar"
 );
 
-const API_KEY="d0f2c823d418a4b4bf904ca822cb2acd";
+const API_KEY = "TU_API_KEY";
 
 async function cargarNoticias(){
 
